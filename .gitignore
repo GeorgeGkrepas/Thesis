@@ -1,0 +1,117 @@
+# =============== #
+#  Unity folders  #
+# =============== #
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Uu]serSettings/
+[Uu]IElementsSchema/
+
+# Asset metadata should only be ignored when the corresponding asset is also ignored
+*.meta
+!Assets/**/*.meta
+!ProjectSettings/**/*.meta
+!Packages/**/*.meta
+
+# =============== #
+#  Generated files #
+# =============== #
+
+# Visual Studio / VSCode / JetBrains Rider
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# JetBrains Rider local settings
+.idea/
+*.DotSettings.user
+
+# Auto-generated solution and project files
+.vscode/
+
+# =============== #
+#   Cache / Temp   #
+# =============== #
+
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+obj/
+[Ll]ibrary/
+Logs/
+
+# =============== #
+#  OS Specific     #
+# =============== #
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# =============== #
+#  Unity Cloud     #
+# =============== #
+# (Unity Cloud auto-generates this; optional)
+UnityCloudBuild/
+
+# =============== #
+#   Addressables   #
+# =============== #
+
+# Local addressables cache
+Assets/AddressableAssetsData/*/*.bin*
+Assets/AddressableAssetsData/*/*.hash
+Assets/AddressableAssetsData/*/*.json
+
+# =============== #
+#  Build Artifacts #
+# =============== #
+
+*.apk
+*.aab
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
+*.ipa
+*.app
+*.exe
+*.dll
+*.dSYM
+*.pdb
+
+# =============== #
+#   Crash Reports  #
+# =============== #
+
+sysinfo.txt
+crashlytics-build.properties
+
+# =============== #
+#  Other optional  #
+# =============== #
+
+# Packages folder lock files
+Packages/packages-lock.json
+
+# Rider plugin cache
+.idea/

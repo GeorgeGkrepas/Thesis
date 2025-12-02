@@ -1,0 +1,1174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MatchingList>
+  
+	<!--Γλώσσα-->
+	<matches id="1">
+		<question>Ταιριάξτε τα μέρη του λόγου με την σωστή λέξη</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>ουσιαστικό</part1>
+			<part2>σπίτι</part2>
+		</match1>
+		<match2>
+			<part1>ρήμα</part1>
+			<part2>τρέχω</part2>
+		</match2>
+		<match3>
+			<part1>επίθετο</part1>
+			<part2>όμορφος</part2>
+		</match3>
+		<match4>
+			<part1>επίρρημα</part1>
+			<part2>γρήγορα</part2>
+		</match4>
+	</matches>
+
+	<matches id="2">
+		<question>Ταιριάξτε τα ρήματα με τον χρόνο στον οποίο είναι γραμμένα</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>Σκέφτομαι</part1>
+			<part2>Ενεστώτας</part2>
+		</match1>
+		<match2>
+			<part1>Σκεφτόμουν</part1>
+			<part2>Παρατατικός</part2>
+		</match2>
+		<match3>
+			<part1>Σκέφτηκα</part1>
+			<part2>Αόριστος</part2>
+		</match3>
+		<match4>
+			<part1>Θα σκέφτομαι</part1>
+			<part2>Εξακολουθητικός μέλλοντας</part2>
+		</match4>
+	</matches>
+
+	<matches id="3">
+		<question>Ταιριάξτε τα αντώνυμα</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>Εύπορος</part1>
+			<part2>Φτωχός</part2>
+		</match1>
+		<match2>
+			<part1>Απαραίτητος</part1>
+			<part2>Περιττός</part2>
+		</match2>
+		<match3>
+			<part1>Αντίθετος</part1>
+			<part2>Σύμφωνος</part2>
+		</match3>
+		<match4>
+			<part1>Βαρετός</part1>
+			<part2>Ενδιαφέρων</part2>
+		</match4>
+	</matches>
+
+	<matches id="4">
+		<question>Ταιριάξτε τα αντώνυμα</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>οξυδερκής</part1>
+			<part2>αφελής</part2>
+		</match1>
+		<match2>
+			<part1>γενναιόδωρος</part1>
+			<part2>τσιγγούνης</part2>
+		</match2>
+		<match3>
+			<part1>επιτυχία</part1>
+			<part2>αποτυχία</part2>
+		</match3>
+		<match4>
+			<part1>ευγενικός</part1>
+			<part2>αγενής</part2>
+		</match4>
+	</matches>
+
+	<matches id="5">
+		<question>Συμπληρώστε σωστά την λέξη</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>Χρωματ_ζω</part1>
+			<part2>ί</part2>
+		</match1>
+		<match2>
+			<part1>Τηλεφων_στε</part1>
+			<part2>ή</part2>
+		</match2>
+		<match3>
+			<part1>Θυμιθ_τε</part1>
+			<part2>εί</part2>
+		</match3>
+		<match4>
+			<part1>Αθρ_ζω</part1>
+			<part2>οί</part2>
+		</match4>
+	</matches>
+
+	<matches id="6">
+		<question>Ποιες λέξεις είναι γραμμένες σωστά και ποιες λάθος;</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>Αλάζω</part1>
+			<part2>Λάθος</part2>
+		</match1>
+		<match2>
+			<part1>Τραίμω</part1>
+			<part2>Λάθος</part2>
+		</match2>
+		<match3>
+			<part1>Ξυπνάω</part1>
+			<part2>Σωστό</part2>
+		</match3>
+		<match4>
+			<part1>Ελπίζω</part1>
+			<part2>Σωστό</part2>
+		</match4>
+	</matches>
+
+	<matches id="7">
+		<question>Ταιριάξτε τα ρήματα με τον χρόνο στον οποίο είναι γραμμένα</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>Διάβασα</part1>
+			<part2>Αόριστος</part2>
+		</match1>
+		<match2>
+			<part1>Θα διαβάσω</part1>
+			<part2>Συνοπτικός μέλλοντας</part2>
+		</match2>
+		<match3>
+			<part1>Είχα διαβάσει</part1>
+			<part2>Υπερσυντέλικος</part2>
+		</match3>
+		<match4>
+			<part1>Θα διαβάζω</part1>
+			<part2>Εξακολουθητικός μέλλοντας</part2>
+		</match4>
+	</matches>
+
+	<matches id="8">
+		<question>Ταιριάξτε τα αντώνυμα</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>Εύπορος</part1>
+			<part2>Φτωχός</part2>
+		</match1>
+		<match2>
+			<part1>Απαραίτητος</part1>
+			<part2>Περιττός</part2>
+		</match2>
+		<match3>
+			<part1>Αντίθετος</part1>
+			<part2>Σύμφωνος</part2>
+		</match3>
+		<match4>
+			<part1>Βαρετός</part1>
+			<part2>Ενδιαφέρων</part2>
+		</match4>
+	</matches>
+
+	<matches id="9">
+		<question>Ταιριάξτε τα ομώνυμα</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>οξυδερκής</part1>
+			<part2>αφελής</part2>
+		</match1>
+		<match2>
+			<part1>γενναιόδωρος</part1>
+			<part2>τσιγγούνης</part2>
+		</match2>
+		<match3>
+			<part1>επιτυχία</part1>
+			<part2>αποτυχία</part2>
+		</match3>
+		<match4>
+			<part1>ευγενικός</part1>
+			<part2>αγενής</part2>
+		</match4>
+	</matches>
+
+	<matches id="10">
+		<question>Ομόηχες λέξεις: Ταιριάξτε την λέξη με την σωστή σημασία</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>Κόμμα</part1>
+			<part2>Σημείο στίξης</part2>
+		</match1>
+		<match2>
+			<part1>Κώμα</part1>
+			<part2>Λήθαργος</part2>
+		</match2>
+		<match3>
+			<part1>Φύλλο</part1>
+			<part2>Του δέντρου</part2>
+		</match3>
+		<match4>
+			<part1>Φύλο</part1>
+			<part2>Αρσενικό, θυληκό, ουδέτερο</part2>
+		</match4>
+	</matches>
+	
+	<!--Ιστορία-->
+	<matches id="11">
+		<question>Ταιριάξτε τα γεγονότα με την σωστή χρονολογία</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>Άλωση της Κωνσταντινούπολης</part1>
+			<part2>1453</part2>
+		</match1>
+		<match2>
+			<part1>Θρησκευτική μεταρρύθμιση</part1>
+			<part2>1517</part2>
+		</match2>
+		<match3>
+			<part1>Ανακάλυψη της Αμερικής</part1>
+			<part2>1492</part2>
+		</match3>
+		<match4>
+			<part1>Αρχή του Τριακονταετή πολέμου</part1>
+			<part2>1618</part2>
+		</match4>
+	</matches>
+
+	<matches id="12">
+		<question>Ταιριάξτε τα γεγονότα με την σωστή χρονολογία</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>Έναρξη Αμερικάνικης επανάστασης</part1>
+			<part2>1776</part2>
+		</match1>
+		<match2>
+			<part1>Έναρξη Γαλλικής επανάστασης</part1>
+			<part2>1789</part2>
+		</match2>
+		<match3>
+			<part1>Ήττα του Ναπολέοντα στο Βατερλό</part1>
+			<part2>1815</part2>
+		</match3>
+		<match4>
+			<part1>Ψήφιση νέου συντάγματος στην Γαλλία</part1>
+			<part2>1791</part2>
+		</match4>
+	</matches>
+
+	<matches id="13">
+		<question>Ταιριάξτε τις κατακτήσεις των Οθωμανών με την χρονιά που έγιναν</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>Θεσσαλονίκη</part1>
+			<part2>1430</part2>
+		</match1>
+		<match2>
+			<part1>Ρόδος</part1>
+			<part2>1566</part2>
+		</match2>
+		<match3>
+			<part1>Κύπρος</part1>
+			<part2>1571</part2>
+		</match3>
+		<match4>
+			<part1>Κρήτη</part1>
+			<part2>1669</part2>
+		</match4>
+	</matches>
+
+	<matches id="14">
+		<question>Ταιριάξτε τα γεγονότα με την σωστή χρονολογία</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>Ίδρυση Φιλικής Εταιρείας</part1>
+			<part2>1814</part2>
+		</match1>
+		<match2>
+			<part1>Μεταφορά έδρας της Φιλικής Εταιρείας στην Κωνσταντινούπολη</part1>
+			<part2>1818</part2>
+		</match2>
+		<match3>
+			<part1>Ο Αλέξανδρος Υψηλάντης της Φιλικής Εταιρείας</part1>
+			<part2>1820</part2>
+		</match3>
+		<match4>
+			<part1>Έναρξη της Ελληνικής επανάστασης</part1>
+			<part2>1821</part2>
+		</match4>
+	</matches>
+
+	<matches id="15">
+		<question>Που έγινε το κάθε ιστορικό γεγονός</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>Ίδρυση Φιλικής Εταιρείας</part1>
+			<part2>Οδησσό</part2>
+		</match1>
+		<match2>
+			<part1>Έναρξη της Ελληνικής Επανάστασης</part1>
+			<part2>Καλάβρυτα</part2>
+		</match2>
+		<match3>
+			<part1>Έναρξη της Αναγέννησης</part1>
+			<part2>Φλωρεντία</part2>
+		</match3>
+		<match4>
+			<part1>Έναρξη της Θρησκευτικής μεταρρύθμισης</part1>
+			<part2>Βιτεμβέργη</part2>
+		</match4>
+	</matches>
+
+	<matches id="16">
+		<question>Τοποθετήστε τους ακόλουθους πολέμους με την σειρά που συνέβησαν</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>1</part1>
+			<part2>Βαλκανικοί πόλεμοι</part2>
+		</match1>
+		<match2>
+			<part1>2</part1>
+			<part2>1ος παγκόσμιος πόλεμος</part2>
+		</match2>
+		<match3>
+			<part1>3</part1>
+			<part2>2ος παγκόσμιος πόλεμος</part2>
+		</match3>
+		<match4>
+			<part1>4</part1>
+			<part2>Ελληνικός εμφύλιος πόλεμος</part2>
+		</match4>
+	</matches>
+
+	<matches id="17">
+		<question>Τοποθετήστε τους ακόλουθους πολέμους με την σειρά που συνέβησαν</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>1</part1>
+			<part2>Αναγέννηση</part2>
+		</match1>
+		<match2>
+			<part1>2</part1>
+			<part2>Ανακάλυψη του νέου κόσμου</part2>
+		</match2>
+		<match3>
+			<part1>3</part1>
+			<part2>Θρησκευτική μεταρρύσμιση</part2>
+		</match3>
+		<match4>
+			<part1>4</part1>
+			<part2>Βιομηχανική επανάσταση</part2>
+		</match4>
+	</matches>
+
+	<matches id="18">
+		<question>Ταιριάξτε τις παρατάξεις με τις κύριες χώρες μέλη τους</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>Άξονας</part1>
+			<part2>Γερμανία-Ιαπωνία-Ιταλία</part2>
+		</match1>
+		<match2>
+			<part1>Συμμαχικές δυνάμεις</part1>
+			<part2>ΗΠΑ-Γαλλία-Σοβιετική ένωση-Ηνωμένο Βασίλειο</part2>
+		</match2>
+		<match3>
+			<part1>Αντάντ</part1>
+			<part2>Βρετανική αυτοκρατορία-Γαλλία-Ρωσία</part2>
+		</match3>
+		<match4>
+			<part1>Κεντρικές δυνάμεις</part1>
+			<part2>Γερμανική αυτοκρατορία-Αυστροουγγαρία-Οθωμανική αυτοκρατορία</part2>
+		</match4>
+	</matches>
+
+	<matches id="19">
+		<question>Ποια είναι η ημερομηνία της κάθε εορτής;</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>Ανεξαρτησία της Ελλάδας</part1>
+			<part2>25 Μαρτίου</part2>
+		</match1>
+		<match2>
+			<part1>Επέτειος του ΟΧΙ</part1>
+			<part2>28 Οκτωβρίου</part2>
+		</match2>
+		<match3>
+			<part1>Εξέγερση του Πολυτεχνίου</part1>
+			<part2>17 Νοεμβρίου</part2>
+		</match3>
+		<match4>
+			<part1>Εργατική Πρωτομαγιά</part1>
+			<part2>1 Μαΐου</part2>
+		</match4>
+	</matches>
+
+	<matches id="20">
+		<question>Είχε αυτή η χώρα αποικίες στις ηπείρους της Αμερικής;</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>Μεγάλη Βρετανία</part1>
+			<part2>Ναι</part2>
+		</match1>
+		<match2>
+			<part1>Ισπανία</part1>
+			<part2>Ναι</part2>
+		</match2>
+		<match3>
+			<part1>Δανία</part1>
+			<part2>Όχι</part2>
+		</match3>
+		<match4>
+			<part1>Ιταλία</part1>
+			<part2>Όχι</part2>
+		</match4>
+	</matches>
+
+	<!--Μαθηματικά-->
+	<matches id="21">
+		<question>Υπολογίστε τον άγνωστο x</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>7+x=13</part1>
+			<part2>6</part2>
+		</match1>
+		<match2>
+			<part1>5*x=25</part1>
+			<part2>5</part2>
+		</match2>
+		<match3>
+			<part1>30=x*3</part1>
+			<part2>10</part2>
+		</match3>
+		<match4>
+			<part1>10=x-4</part1>
+			<part2>14</part2>
+		</match4>
+	</matches>
+
+	<matches id="22">
+		<question>Μετατρέψτε το κλάσμα στον αντίστοιχο δεκαδικό αριθμό</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>1/2</part1>
+			<part2>0,5</part2>
+		</match1>
+		<match2>
+			<part1>1/4</part1>
+			<part2>0,25</part2>
+		</match2>
+		<match3>
+			<part1>4/5</part1>
+			<part2>0,8</part2>
+		</match3>
+		<match4>
+			<part1>6/10</part1>
+			<part2>0,6</part2>
+		</match4>
+	</matches>
+
+	<matches id="23">
+		<question>Υπολογίστε το αποτέλεσμα της πράξης</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>10*0,5</part1>
+			<part2>5</part2>
+		</match1>
+		<match2>
+			<part1>2,5+3,5</part1>
+			<part2>6</part2>
+		</match2>
+		<match3>
+			<part1>12-4,5</part1>
+			<part2>7,5</part2>
+		</match3>
+		<match4>
+			<part1>6*1,5</part1>
+			<part2>9</part2>
+		</match4>
+	</matches>
+
+	<matches id="24">
+		<question>Ταιριάξτε τα ισοδύναμα κλάσματα</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>1/2</part1>
+			<part2>2/4</part2>
+		</match1>
+		<match2>
+			<part1>1/4</part1>
+			<part2>3/12</part2>
+		</match2>
+		<match3>
+			<part1>3/7</part1>
+			<part2>6/14</part2>
+		</match3>
+		<match4>
+			<part1>2/5</part1>
+			<part2>4/10</part2>
+		</match4>
+	</matches>
+
+	<matches id="25">
+		<question>Αντιστοιχίστε το ποσοστό με το κλάσμα</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>50%</part1>
+			<part2>1/2</part2>
+		</match1>
+		<match2>
+			<part1>25%</part1>
+			<part2>1/4</part2>
+		</match2>
+		<match3>
+			<part1>30%</part1>
+			<part2>3/10</part2>
+		</match3>
+		<match4>
+			<part1>40%</part1>
+			<part2>2/5</part2>
+		</match4>
+	</matches>
+
+	<matches id="26">
+		<question>Ποιοι από τους ακόλουθους είναι πρώτοι αριθμοί;</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>2</part1>
+			<part2>Είναι</part2>
+		</match1>
+		<match2>
+			<part1>7</part1>
+			<part2>Είναι</part2>
+		</match2>
+		<match3>
+			<part1>9</part1>
+			<part2>Δεν είναι</part2>
+		</match3>
+		<match4>
+			<part1>4</part1>
+			<part2>Δεν είναι</part2>
+		</match4>
+	</matches>
+
+	<matches id="27">
+		<question>Πόσες έδρες έχουν τα ακόλουθα σχήματα</question>
+		<isImage>yes</isImage>
+		<match1>
+			<part1>Images/shape_pyramid</part1>
+			<part2>5</part2>
+		</match1>
+		<match2>
+			<part1>Images/shape_cube</part1>
+			<part2>6</part2>
+		</match2>
+		<match3>
+			<part1>Images/shape_cylinder</part1>
+			<part2>3</part2>
+		</match3>
+		<match4>
+			<part1>Images/shape_rectangle3d</part1>
+			<part2>6</part2>
+		</match4>
+	</matches>
+
+	<matches id="28">
+		<question>Πώς μετατρέπουμε την μία μονάδα απόστασης στην άλλη;</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>Εκατοστά -> Μέτρα</part1>
+			<part2>Διαιρούμε με το 100</part2>
+		</match1>
+		<match2>
+			<part1>Χιλιόμετρα -> Μέτρα</part1>
+			<part2>Διαιρούμε με το 1000</part2>
+		</match2>
+		<match3>
+			<part1>Εκατοστά -> Χιλιοστά</part1>
+			<part2>Πολλαπλασιάζουμε με το 10</part2>
+		</match3>
+		<match4>
+			<part1>Δέκατα -> Εκατοστά</part1>
+			<part2>Πολλαπλασιάζουμε με το 10</part2>
+		</match4>
+	</matches>
+
+	<matches id="29">
+		<question>Πώς υπολογίζουμε το εμβαδόν των ακόλουθων σχημάτων;</question>
+		<isImage>yes</isImage>
+		<match1>
+			<part1>Images/shape_square</part1>
+			<part2>πλευρά*πλευρά</part2>
+		</match1>
+		<match2>
+			<part1>Images/shape_rectangle</part1>
+			<part2>Μικρή πλευρά*Μεγάλη πλευρά</part2>
+		</match2>
+		<match3>
+			<part1>Images/shape_triangle</part1>
+			<part2>Βάση*Ύψος/2</part2>
+		</match3>
+		<match4>
+			<part1>Images/shape_circle</part1>
+			<part2>Ακτίνα*Ακτίνα*π</part2>
+		</match4>
+	</matches>
+	
+	<matches id="30">
+		<question>Υπολόγισε τον μέσο όρο των συνόλων</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>1 2 6</part1>
+			<part2>3</part2>
+		</match1>
+		<match2>
+			<part1>2 4 6 8</part1>
+			<part2>4</part2>
+		</match2>
+		<match3>
+			<part1>2 4 6 6</part1>
+			<part2>3,5</part2>
+		</match3>
+		<match4>
+			<part1>0 4 5 6 10</part1>
+			<part2>5</part2>
+		</match4>
+	</matches>
+	
+	<!--Γεωγραφία-->
+	<matches id="31">
+		<question>Ταιριάξτε τις εικόνες με την σωστή χώρα</question>
+		<isImage>yes</isImage>
+		<match1>
+			<part1>Images/country_nor</part1>
+			<part2>Νορβηγία</part2>
+		</match1>
+		<match2>
+			<part1>Images/country_swe</part1>
+			<part2>Σουηδία</part2>
+		</match2>
+		<match3>
+			<part1>Images/country_dnk</part1>
+			<part2>Δανία</part2>
+		</match3>
+		<match4>
+			<part1>Images/country_isl</part1>
+			<part2>Ισλανδία</part2>
+		</match4>
+	</matches>
+
+	<matches id="32">
+		<question>Ταιριάξτε τις εικόνες με την σωστή χώρα</question>
+		<isImage>yes</isImage>
+		<match1>
+			<part1>Images/country_deu</part1>
+			<part2>Γερμανία</part2>
+		</match1>
+		<match2>
+			<part1>Images/country_nld</part1>
+			<part2>Ολλανδία</part2>
+		</match2>
+		<match3>
+			<part1>Images/country_bel</part1>
+			<part2>Βέλγιο</part2>
+		</match3>
+		<match4>
+			<part1>Images/country_lux</part1>
+			<part2>Λουξεμβούργο</part2>
+		</match4>
+	</matches>
+
+	<matches id="33">
+		<question>Ταιριάξτε τις εικόνες με την σωστή χώρα</question>
+		<isImage>yes</isImage>
+		<match1>
+			<part1>Images/country_grc</part1>
+			<part2>Ελλάδα</part2>
+		</match1>
+		<match2>
+			<part1>Images/country_ita</part1>
+			<part2>Ιταλία</part2>
+		</match2>
+		<match3>
+			<part1>Images/country_mlt</part1>
+			<part2>Μάλτα</part2>
+		</match3>
+		<match4>
+			<part1>Images/country_cyp</part1>
+			<part2>Κύπρος</part2>
+		</match4>
+	</matches>
+
+	<matches id="34">
+		<question>Ταιριάξτε τις εικόνες με την σωστή χώρα</question>
+		<isImage>yes</isImage>
+		<match1>
+			<part1>Images/country_fra</part1>
+			<part2>Γαλλία</part2>
+		</match1>
+		<match2>
+			<part1>Images/country_gbr</part1>
+			<part2>Ηνωμένο Βασίλειο</part2>
+		</match2>
+		<match3>
+			<part1>Images/country_esp</part1>
+			<part2>Ισπανία</part2>
+		</match3>
+		<match4>
+			<part1>Images/country_prt</part1>
+			<part2>Πορτογαλία</part2>
+		</match4>
+	</matches>
+
+	<matches id="35">
+		<question>Ταιριάξτε τις εικόνες με την σωστή χώρα</question>
+		<isImage>yes</isImage>
+		<match1>
+			<part1>Images/country_che</part1>
+			<part2>Ελβετία</part2>
+		</match1>
+		<match2>
+			<part1>Images/country_aut</part1>
+			<part2>Αυστρία</part2>
+		</match2>
+		<match3>
+			<part1>Images/country_pol</part1>
+			<part2>Πολωνία</part2>
+		</match3>
+		<match4>
+			<part1>Images/country_hun</part1>
+			<part2>Ουγγαρία</part2>
+		</match4>
+	</matches>
+
+	<matches id="36">
+		<question>Ξεκινώντας από το έδαφος, ποια είναι η σειρά των στρωμάτων της ατμόσφαιρας;</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>1</part1>
+			<part2>Τροπόσφαιρα</part2>
+		</match1>
+		<match2>
+			<part1>2</part1>
+			<part2>Στρατόσφαιρα</part2>
+		</match2>
+		<match3>
+			<part1>3</part1>
+			<part2>Μεσόσφαιρα</part2>
+		</match3>
+		<match4>
+			<part1>4</part1>
+			<part2>Εξώσφαιρα</part2>
+		</match4>
+	</matches>
+
+	<matches id="37">
+		<question>Είναι τα ακόλουθα γεωμορφολογικά στοιχεία κατακόρυφου ή οριζόντιου διαμελισμού;</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>Όρη</part1>
+			<part2>Κατακόρυφου</part2>
+		</match1>
+		<match2>
+			<part1>Πεδιάδες</part1>
+			<part2>Κατακόρυφου</part2>
+		</match2>
+		<match3>
+			<part1>Χερσόνησοι</part1>
+			<part2>Οριζόντιου</part2>
+		</match3>
+		<match4>
+			<part1>Νησιά</part1>
+			<part2>Οριζόντιου</part2>
+		</match4>
+	</matches>
+
+	<matches id="38">
+		<question>Βάλτε τους πλανήτες στην σειρά, ξεκινώντας από τον κοντυνότερο στον ήλιο</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>1</part1>
+			<part2>Ερμής</part2>
+		</match1>
+		<match2>
+			<part1>2</part1>
+			<part2>Γη</part2>
+		</match2>
+		<match3>
+			<part1>3</part1>
+			<part2>Δίας</part2>
+		</match3>
+		<match4>
+			<part1>4</part1>
+			<part2>Ουρανός</part2>
+		</match4>
+	</matches>
+
+	<matches id="39">
+		<question>Με ποια χώρα συνορεύουν οι ακόλουθες θάλασσες;</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>Βαλτική</part1>
+			<part2>Πολωνία</part2>
+		</match1>
+		<match2>
+			<part1>Κασπία</part1>
+			<part2>Αζερμπαϊτζάν</part2>
+		</match2>
+		<match3>
+			<part1>Μεσόγειος</part1>
+			<part2>Ισπανία</part2>
+		</match3>
+		<match4>
+			<part1>Βόρεια</part1>
+			<part2>Ολλανδία</part2>
+		</match4>
+	</matches>
+
+	<matches id="40">
+		<question>Σε ποια περιοχή της Ευρώπης κυριαρχούν τα ακόλουθα κλίματα;</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>Βόρεια Ευρώπη</part1>
+			<part2>Πολικό κλίμα</part2>
+		</match1>
+		<match2>
+			<part1>Νότια Ευρώπη</part1>
+			<part2>Μεσογειακό κλίμα</part2>
+		</match2>
+		<match3>
+			<part1>Ανατολική Ευρώπη</part1>
+			<part2>Ηπειρωτικό κλίμα</part2>
+		</match3>
+		<match4>
+			<part1>Δυτική Ευρώπη</part1>
+			<part2>Ωκεάνιο κλίμα</part2>
+		</match4>
+	</matches>
+
+	<!--Αγγλικά-->
+	<matches id="41">
+		<question>Match the country with the nationality</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>Greece</part1>
+			<part2>Greek</part2>
+		</match1>
+		<match2>
+			<part1>Georgia</part1>
+			<part2>Georgian</part2>
+		</match2>
+		<match3>
+			<part1>Italy</part1>
+			<part2>Italian</part2>
+		</match3>
+		<match4>
+			<part1>Cyprus</part1>
+			<part2>Cypriot</part2>
+		</match4>
+	</matches>
+
+	<matches id="42">
+		<question>Fill in the blank</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>It often __ heavily in winter</part1>
+			<part2>rains</part2>
+		</match1>
+		<match2>
+			<part1>My uncle __ in an office</part1>
+			<part2>works</part2>
+		</match2>
+		<match3>
+			<part1>My brother __ always early for school</part1>
+			<part2>is</part2>
+		</match3>
+		<match4>
+			<part1>The temperature usually __ in summer</part1>
+			<part2>rises</part2>
+		</match4>
+	</matches>
+
+	<matches id="43">
+		<question>Which of these items match the groups?</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>Dairy</part1>
+			<part2>Milk, Yoghurt, Cheese</part2>
+		</match1>
+		<match2>
+			<part1>Meat</part1>
+			<part2>Chicken, Beef, Pork</part2>
+		</match2>
+		<match3>
+			<part1>Fruit</part1>
+			<part2>Apple, Orange, Pear</part2>
+		</match3>
+		<match4>
+			<part1>Vegetables</part1>
+			<part2>Cucumber, Lettuce, Cabbage</part2>
+		</match4>
+	</matches>
+
+	<matches id="44">
+		<question>Fill in the blank</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>__ bananas have you got?</part1>
+			<part2>How many</part2>
+		</match1>
+		<match2>
+			<part1>__ juice is there in the fridge?</part1>
+			<part2>How much</part2>
+		</match2>
+		<match3>
+			<part1>Do we have __ sweets?</part1>
+			<part2>any</part2>
+		</match3>
+		<match4>
+			<part1>I have __ sugar in the jar</part1>
+			<part2>some</part2>
+		</match4>
+	</matches>
+
+	<matches id="45">
+		<question>Match the adjective with its comparative form</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>Good</part1>
+			<part2>Better</part2>
+		</match1>
+		<match2>
+			<part1>Bad</part1>
+			<part2>Worse</part2>
+		</match2>
+		<match3>
+			<part1>Far</part1>
+			<part2>Farther</part2>
+		</match3>
+		<match4>
+			<part1>Little</part1>
+			<part2>Less</part2>
+		</match4>
+	</matches>
+
+	<matches id="46">
+		<question>Match the opposites</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>Huge</part1>
+			<part2>Tiny</part2>
+		</match1>
+		<match2>
+			<part1>Ugly</part1>
+			<part2>Beautiful</part2>
+		</match2>
+		<match3>
+			<part1>Vicious</part1>
+			<part2>Good</part2>
+		</match3>
+		<match4>
+			<part1>Playful</part1>
+			<part2>Serious</part2>
+		</match4>
+	</matches>
+
+	<matches id="48">
+		<question>Fill in the blanks</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>I ____ so tired from all the studying lately!</part1>
+			<part2>have been</part2>
+		</match1>
+		<match2>
+			<part1>We ____ each other since last week!</part1>
+			<part2>haven't seen</part2>
+		</match2>
+		<match3>
+			<part1>Mary ____ sick since yesterday.</part1>
+			<part2>has been</part2>
+		</match3>
+		<match4>
+			<part1>Kostas ____ back from vacation yet.</part1>
+			<part2>hasn't come</part2>
+		</match4>
+	</matches>
+
+	<matches id="49">
+		<question>Match the synonyms</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>Happiness</part1>
+			<part2>Joy</part2>
+		</match1>
+		<match2>
+			<part1>Huge</part1>
+			<part2>Colossal</part2>
+		</match2>
+		<match3>
+			<part1>Immature</part1>
+			<part2>Childlike</part2>
+		</match3>
+		<match4>
+			<part1>Pavement</part1>
+			<part2>Sidewalk</part2>
+		</match4>
+	</matches>
+
+	<!--Κοινωνική και πολιτική αγωγή-->
+
+	<matches id="51">
+		<question>Ποιο είναι το επίπεδο κάθε εκπαίδευσης;</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>Δημοτικό</part1>
+			<part2>Πρωτοβάθμια</part2>
+		</match1>
+		<match2>
+			<part1>Νηπιαγωγίο</part1>
+			<part2>Πρωτοβάθμια</part2>
+		</match2>
+		<match3>
+			<part1>Γυμνάσιο</part1>
+			<part2>Δευτεροβάθμια</part2>
+		</match3>
+		<match4>
+			<part1>Πανεπιστήμιο</part1>
+			<part2>Πανεπιστήμιο</part2>
+		</match4>
+	</matches>
+
+	<matches id="52">
+		<question>Ποιος είναι ο υπεύθυνος των ακόλουθων πολιτικών βαθμίδων;</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>Δημος</part1>
+			<part2>Δήμαρχος</part2>
+		</match1>
+		<match2>
+			<part1>Περιφέρεια</part1>
+			<part2>Περιφερειάρχης</part2>
+		</match2>
+		<match3>
+			<part1>Κράτος</part1>
+			<part2>Πρωθυπουργός</part2>
+		</match3>
+		<match4>
+			<part1>Βουλή</part1>
+			<part2>Πρόεδρος της Βουλής</part2>
+		</match4>
+	</matches>
+
+	<matches id="53">
+		<question>Ποιος είναι ο ρόλος των ακόλουθων θεσμών της Ευρωπαϊκής Ένωσης;</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>Ευρωπαϊκό συμβούλιο</part1>
+			<part2>Συνεδριάζει για θέματα γενικής πολιτικής της ένωσης</part2>
+		</match1>
+		<match2>
+			<part1>Ευρωπαϊκό Δικαστήριο</part1>
+			<part2>Yπερασπίζεται τα συμφέροντα των Ευρωπαίων πολιτών</part2>
+		</match2>
+		<match3>
+			<part1>Ευρωπαϊκό Κοινοβούλιο</part1>
+			<part2>Προτείνει τους νόμους στο Κοινοβούλιο και στο Συμβούλιο Yπουργών</part2>
+		</match3>
+		<match4>
+			<part1>Ευρωπαϊκή Επιτροπή</part1>
+			<part2>Διασφαλίζει την ισότητα όλων των πολιτών απέναντι στο νόμο σε όλα τα κράτη-μέλη</part2>
+		</match4>
+	</matches>
+
+	<matches id="54">
+		<question>Πότε έγιναν τα παρακάτω γεγονότα που σχετίζονται με της είσοδο της Ελλάδας στην Ε.Ε.;</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>Υπογραφή συνθήκης προσχώρησης στην Ευρωπαϊκή Οικονομική Κοινώτητα</part1>
+			<part2>1979</part2>
+		</match1>
+		<match2>
+			<part1>Πρώτη προεδρία της Ελλάδας στο συμβούλιο των Ευρωπαϊκών κοινωτήτων</part1>
+			<part2>1983</part2>
+		</match2>
+		<match3>
+			<part1>Είσοδος της Ελλάδας στην νομισματική "Ευρωζώνη"</part1>
+			<part2>2001</part2>
+		</match3>
+		<match4>
+			<part1>Η Ελλάδα γίνεται μέλος της Ευρωπαϊκής Οικονομικής Κοινώτητας</part1>
+			<part2>1981</part2>
+		</match4>
+	</matches>
+
+	<!--Θρησκευτικά-->
+
+	<!--Μουσική-->
+
+	<!--Εικαστικά-->
+
+	<!--Φυσική αγωγή-->
+
+	<matches id="81">
+		<question>Πόσοι αριθμοί παικτών υπάρχουν ανά ομάδα σε κάθε άθλημα;</question>
+		<isImage>no</isImage>
+		<match1>
+			<part1>Ποδόσφαιρο</part1>
+			<part2>11</part2>
+		</match1>
+		<match2>
+			<part1>Μπάσκετ</part1>
+			<part2>5</part2>
+		</match2>
+		<match3>
+			<part1>Βόλλεϋ</part1>
+			<part2>6</part2>
+		</match3>
+		<match4>
+			<part1>Πόλο</part1>
+			<part2>7</part2>
+		</match4>
+	</matches>
+
+	<matches id="82">
+		<question>Σε ποιο άθλημα ανήκει κάθε μπάλα;</question>
+		<isImage>yes</isImage>
+		<match1>
+			<part1>Images/ball_football</part1>
+			<part2>Ποδόσφαιρο</part2>
+		</match1>
+		<match2>
+			<part1>Images/ball_basketball</part1>
+			<part2>Μπάσκετ</part2>
+		</match2>
+		<match3>
+			<part1>Images/ball_volleyball</part1>
+			<part2>Βόλλεϋ</part2>
+		</match3>
+		<match4>
+			<part1>Images/ball_tennis</part1>
+			<part2>Τέννις</part2>
+		</match4>
+	</matches>
+
+	<matches id="83">
+		<question>Σε ποιο άθλημα ανήκει κάθε γήπεδο;</question>
+		<isImage>yes</isImage>
+		<match1>
+			<part1>Images/court_football</part1>
+			<part2>Ποδόσφαιρο</part2>
+		</match1>
+		<match2>
+			<part1>Images/court_basketball</part1>
+			<part2>Μπάσκετ</part2>
+		</match2>
+		<match3>
+			<part1>Images/court_volleyball</part1>
+			<part2>Βόλλεϋ</part2>
+		</match3>
+		<match4>
+			<part1>Images/court_tennis</part1>
+			<part2>Τέννις</part2>
+		</match4>
+	</matches>
+  
+</MatchingList>
