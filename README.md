@@ -1,5 +1,5 @@
 # 📋 Overview
-This is the project I created for my Electrical and Computer Engineering degree's thesis. It's a Unity game in virtual reality that's multiplayer and has an educational goal, or is otherwise known as a "Serious Game". The game is of the trivia genre where the player has to make complete four pair matches based on the question given. Points are awarded to the player that answers the question first and the first one to 10 points wins! The game is titled "It's Elementary!" (or "Είναι Στοιχειώδες" in greek, my native language)
+This is the project I created for my Electrical and Computer Engineering degree's thesis. It's a Unity game in virtual reality that's multiplayer and has an educational goal, or is otherwise known as a "Serious Game". The game is of the trivia genre where the player has to complete four pair matches based on the question given. Points are awarded to the player that answers the question first and the first one to 10 points wins! The game is titled "It's Elementary!" (or "Είναι Στοιχειώδες" in greek, my native language)
 
 ## 🛠️ Tools Used
 - Unity (Game Engine)
